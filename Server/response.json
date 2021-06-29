@@ -1,0 +1,18 @@
+[
+    {
+        "type": "Error",
+        "message": "Internal Server Error"
+    },
+    {
+        "type": "Success",
+        "message": "Fetching users list"
+    },
+    {
+        "type": "Info",
+        "message": "User is trying to fetch past 1 year data"
+    },
+    {
+        "type": "Debug",
+        "message": "Infrastructure at peak load"
+    }
+]

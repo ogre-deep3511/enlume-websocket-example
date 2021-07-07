@@ -1,4 +1,4 @@
-# EventStan Assignment (Backend)
+# Enlume assignment
 
 ```text
 * Approach(Server)
